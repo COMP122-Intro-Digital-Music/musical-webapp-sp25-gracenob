@@ -1,0 +1,18 @@
+[
+  {
+    "name": "forest",
+    "file": "samples/forest-nature-322637.mp3",
+    "bpm": "130",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Untitled",
+    "file": "samples/ocean-wave-1.wav",
+    "bpm": "140",
+    "loop": "2m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
